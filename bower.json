@@ -1,0 +1,19 @@
+{
+  "name": "websocket-rails-js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/websocket-rails/websocket-rails-js",
+  "authors": [],
+  "description": "A client library for the websocket-rails",
+  "main": "websocket_rails.0.0.1.min.js",
+  "keywords": [
+    "websocket-rails"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
